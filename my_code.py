@@ -1,6 +1,6 @@
 def legs(x, y, z):
-    # User code goes here
-    return # add variable to return here
+    # add code here
+    return #add value to return
 
 
 if __name__ == '__main__':
