@@ -1,4 +1,4 @@
-def legs(X, y, z):
+def legs(x, y, z):
     # User code goes here
     return # add variable to return here
 
