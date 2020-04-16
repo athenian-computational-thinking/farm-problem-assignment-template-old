@@ -1,6 +1,5 @@
-def legs(x, y, z):
-    # add code here
-    return #add value to return
+#Write a function "legs" that uses parameters chickens, cows and pigs (in that order!) and returns the number of legs.
+
 
 
 if __name__ == '__main__':
