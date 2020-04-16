@@ -15,7 +15,7 @@ Calculate the number of animal legs are on the farm. The function takes the foll
 Chickens: 2
 Cows: 2
 Pigs: 2
-Total legs: 10
+Total legs: 20
 ```
 
 ## Suggested Approach
